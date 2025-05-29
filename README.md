@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with experience in  
+I am working as a Cloud DevOps Engineer with experience in  
 **AWS Cloud services, Jenkins CICD Pipelines, Containers and Microservices, Orchestration (Kubernetes),**  
 **Terraform, Monitoring tools (Prometheus and Grafana), CD tools like ArgoCD, Git & GitHub, Bitbucket, GitHub Actions, Shell Scripting.**
 
