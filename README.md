@@ -13,11 +13,11 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
 
 <p align="left">
   <a href="https://linkedin.com/in/tukaram-barure/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
   </a>
     &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/i/flow/login?redirect_after_login=%2Ftukarambarure" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="Twitter" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" width="40" height="40"/>
   </a>
 </p>
 
