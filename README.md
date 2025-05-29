@@ -21,7 +21,7 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
 
 ### 🛠️ DevOps Tools
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws)
+![AWS](https://aws.amazon.com/)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins)
