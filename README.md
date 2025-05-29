@@ -15,8 +15,9 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
   <a href="https://linkedin.com/in/tukaram-barure/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+    &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
 
