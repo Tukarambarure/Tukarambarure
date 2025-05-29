@@ -15,6 +15,7 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
   <a href="https://linkedin.com/in/tukaram-barure/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="40" height="40"/>
   </a>
@@ -26,7 +27,7 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
 <h3>🛠️ Cloud DevOps Tools</h3>
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
@@ -37,6 +38,12 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic_co/elastic_co-icon.svg" alt="Elasticsearch" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache2" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" alt="SSL/TLS" width="50" height="50"/>
+
 </p>
 
 ---
