@@ -10,6 +10,7 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
 ### Connect with me:
 
 
+
 <p align="left">
   <a href="https://linkedin.com/in/tukaram-barure/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
@@ -23,6 +24,7 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
 
 ---
 🛠️ Cloud DevOps Tools :
+
 
 
 <p align="left">
