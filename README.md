@@ -1,8 +1,7 @@
 # Hi there 👋
 
 
-I am a Cloud DevOps Engineer with experience in **AWS Cloud services, Jenkins CICD Pipelines, Containers and Microservices, Orchestration (Kubernetes),**  
-**Terraform, Monitoring tools (Prometheus and Grafana), CD tools like ArgoCD, Git & GitHub, Bitbucket, GitHub Actions, Shell Scripting.**
+I am a Cloud DevOps Engineer with experience in **AWS Cloud services, Jenkins CICD Pipelines, Containers and Microservices, Orchestration (Kubernetes),** **Terraform, Monitoring tools (Prometheus and Grafana), CD tools like ArgoCD, Git & GitHub, Bitbucket, GitHub Actions, Shell Scripting.**
 
 ---
 
