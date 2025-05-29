@@ -26,7 +26,7 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform)
+![Terraform](https://developer.hashicorp.com/terraform)
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux)
 ![Shell Script](https://img.shields.io/badge/Shell-%23121011.svg?style=flat&logo=gnu-bash)
