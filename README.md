@@ -11,6 +11,7 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
 
 <h3>🔗 Connect with me:</h3>
 
+
 <p align="left">
   <a href="https://linkedin.com/in/tukaram-barure/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
@@ -25,6 +26,7 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
 ---
 
 <h3>🛠️ Cloud DevOps Tools</h3>
+
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
