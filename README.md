@@ -9,23 +9,24 @@ My name is Tukaram Barure and I am working as a Cloud DevOps Engineer with exper
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/Ajay%20Tekam-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tukaram-barure/)  
+[![LinkedIn](https://img.shields.io/badge/Tukaram%20Barure-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tukaram-barure/)  
 [![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)  
 
 ---
 
-### 🛠️ DevOps Tools
+### 🛠️ Cloud DevOps Tools
 
-![AWS](https://aws.amazon.com/)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git)
-![Terraform](https://developer.hashicorp.com/terraform)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux)
 ![Shell Script](https://img.shields.io/badge/Shell-%23121011.svg?style=flat&logo=gnu-bash)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus)
+
 
 ---
 
