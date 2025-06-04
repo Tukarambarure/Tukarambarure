@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-Over the past two years as a Cloud DevOps Engineer, I've been deeply involved in architecting cloud solutions from the ground up, including leading a significant cloud migration project on Dessault Systems's Outscale cloud. My expertise lies in automating infrastructure, building production ready Outscale machine images and deployment pipelines, creating reusable machine images for rapid deployment, and ensuring system reliability through comprehensive monitoring.                                
+Over the past two years as a Cloud DevOps Engineer, I've been deeply involved in architecting cloud solutions from the ground up, including leading a significant cloud migration project on Dessault Systems's Outscale cloud. My expertise lies in automating infrastructure, deployment pipelines and ensuring system reliability through comprehensive monitoring,building production ready Outscale machine images creating reusable machine images for rapid deployment.                                
 Tools & technologies i have worked with - Outscale Cloud, AWS Cloud, Automation tools - Terraform(IaC), Shell Scripting, Hashicorp Packer & Cloud Init , CI/CD Pipelines -  CI tools like Jenkins, Github actions, bitbucket pipelines, Containers and Microservices, Orchestration (Kubernetes) CD tools like ArgoCD, Monitoring tools (Prometheus and Grafana).
 
 ---
