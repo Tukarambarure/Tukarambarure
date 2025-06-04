@@ -13,8 +13,8 @@ I am a Cloud DevOps Engineer with experience in **AWS Cloud services, Jenkins CI
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
-  <img src="![image](https://github.com/user-attachments/assets/5c6a30a4-20f6-41cf-af2b-5c638e14c2a5)" alt="outscale" width="50" height="50"/>
-  (https://github.com/user-attachments/assets/5b408828-296f-4347-90b5-5374c4991626)
+  <img src="![451269949-5b408828-296f-4347-90b5-5374c4991626](https://github.com/user-attachments/assets/ca620df9-61c0-4090-a56f-75dd260b8e62)" alt="outscale" 
+  width="50"height="50"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
