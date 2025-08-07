@@ -11,6 +11,13 @@ Tools & technologies i have worked with :
 - Container Technologies - Docker, Kubernetes (Orchestration)
 - Monitoring tools - Prometheus, Grafana and Spring Boot Admin
 
+I am Currently working on
+
+- Learning Kubernetes
+- Learning AIOps and MLOps Workflow
+- Implementing Cloud and DevOps Best Pratices including FinOps, SecOps
+
+
 ---
 
 🛠️ Cloud DevOps Tools :
