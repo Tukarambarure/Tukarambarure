@@ -15,7 +15,7 @@ I am Currently working on :
 
 - Learning Kubernetes
 - Learning AIOps and MLOps Workflow
-- Implementing Cloud and DevOps Best Pratices including FinOps, SecOps
+- Implementing Cloud and DevOps Best Pratices including FinOps and SecOps
 
 
 ---
