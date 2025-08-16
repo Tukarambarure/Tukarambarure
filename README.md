@@ -25,7 +25,7 @@ I am Currently working on :
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img width="259" height="194" alt="aws2" src="https://github.com/user-attachments/assets/901de9b5-66a6-4b70-80e4-29d45e9acc60" />
+  <img width="80" height="80" alt="aws2" src="https://github.com/user-attachments/assets/901de9b5-66a6-4b70-80e4-29d45e9acc60" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e7b18ec0-8978-4059-913b-261a8500d2ea" />
   <img width="140" height="140" alt="Screenshot 2025-08-16 154033" src="https://github.com/user-attachments/assets/093c73dc-40c5-4a88-8d0a-6661365aa9df" />
