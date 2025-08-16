@@ -1,5 +1,6 @@
 # Hi there 👋
 
+<img width="312" height="70" alt="image" src="https://github.com/user-attachments/assets/5aec54b3-7504-460b-8cca-2b75db1e6065" />
 
 Over the past two years as a Cloud DevOps Engineer, I've been deeply involved in architecting cloud solutions from the ground up, including leading a significant cloud migration project on Dessault Systems's Outscale cloud. My expertise lies in automating infrastructure, deployment pipelines and ensuring system reliability through comprehensive monitoring,building production ready Outscale machine images creating reusable machine images for rapid deployment. 
 
