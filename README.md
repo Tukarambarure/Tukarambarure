@@ -41,8 +41,8 @@ I am Currently working on :
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/sonatype/sonatype-icon.svg" alt="Nexus" width="50" height="50"/>
-  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/0cc841ef-5a93-483f-a87a-94369d2366e7" />
-  <img width="100" height="100" alt="kafka" src="https://github.com/user-attachments/assets/46ea2783-a186-48d8-bfcb-0cb937658c1f" />
+  <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/0cc841ef-5a93-483f-a87a-94369d2366e7" />
+  <img width="100" height="70" alt="kafka" src="https://github.com/user-attachments/assets/46ea2783-a186-48d8-bfcb-0cb937658c1f" />
   <img src="https://www.vectorlogo.zone/logos/elastic_co/elastic_co-icon.svg" alt="Elasticsearch" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache2" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" width="50" height="50"/>
