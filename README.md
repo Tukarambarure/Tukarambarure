@@ -26,11 +26,9 @@ I am Currently working on :
 
 
 <p align="left">
-  <img width="80" height="80" alt="Screenshot 2025-08-16 154033" src="https://github.com/user-attachments/assets/093c73dc-40c5-4a88-8d0a-6661365aa9df" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
-  <img src="![451269949-5b408828-296f-4347-90b5-5374c4991626](https://github.com/user-attachments/assets/ca620df9-61c0-4090-a56f-75dd260b8e62)" alt="outscale" 
-  width="50"height="50"/>
+  <img width="110" height="110" alt="Screenshot 2025-08-16 154033" src="https://github.com/user-attachments/assets/093c73dc-40c5-4a88-8d0a-6661365aa9df" />
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
