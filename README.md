@@ -1,7 +1,5 @@
 # Hi there 👋
 
-<img width="312" height="70" alt="image" src="https://github.com/user-attachments/assets/5aec54b3-7504-460b-8cca-2b75db1e6065" />
-
 Over the past two years as a Cloud DevOps Engineer, I've been deeply involved in architecting cloud solutions from the ground up, including leading a significant cloud migration project on Dessault Systems's Outscale cloud. My expertise lies in automating infrastructure, deployment pipelines and ensuring system reliability through comprehensive monitoring,building production ready Outscale machine images creating reusable machine images for rapid deployment. 
 
 Tools & technologies i have worked with :
@@ -28,7 +26,7 @@ I am Currently working on :
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/>
-  <img width="110" height="110" alt="Screenshot 2025-08-16 154033" src="https://github.com/user-attachments/assets/093c73dc-40c5-4a88-8d0a-6661365aa9df" />
+  <img width="120" height="120" alt="Screenshot 2025-08-16 154033" src="https://github.com/user-attachments/assets/093c73dc-40c5-4a88-8d0a-6661365aa9df" />
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
