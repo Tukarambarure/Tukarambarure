@@ -40,7 +40,6 @@ I am Currently working on :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50"/>
-  <img width="110" height="130" alt="image" src="https://github.com/user-attachments/assets/0cc841ef-5a93-483f-a87a-94369d2366e7" />
   <img width="110" height="130" alt="Logo_of_Sonatype_Nexus_Repository svg" src="https://github.com/user-attachments/assets/bc6b5ca8-202d-4d02-a10e-8e013c78ad0d" />
   <img width="100" height="30" alt="kafka" src="https://github.com/user-attachments/assets/46ea2783-a186-48d8-bfcb-0cb937658c1f" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="Elasticsearch" width="80" height="80"/>
