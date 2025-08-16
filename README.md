@@ -34,7 +34,8 @@ I am Currently working on :
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a324232d-1314-4347-b0ce-17fa3a1fbc90" />
   <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="Github-Actions" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Argo-logo.png" alt="ArgoCD" width="50" height="50"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="ArgoCD" width="50" height="50"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50"/>
