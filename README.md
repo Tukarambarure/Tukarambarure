@@ -31,7 +31,7 @@ I am Currently working on :
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
-  <img width="288" height="72" alt="image" src="https://github.com/user-attachments/assets/a324232d-1314-4347-b0ce-17fa3a1fbc90" />
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/a324232d-1314-4347-b0ce-17fa3a1fbc90" />
   <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="Github-Actions" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Argo-logo.png" alt="ArgoCD" width="50" height="50"/>
