@@ -34,6 +34,7 @@ I am Currently working on :
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a324232d-1314-4347-b0ce-17fa3a1fbc90" />
   <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="Github-Actions" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+  <img width="100" height="100" alt="trivy-logo-512" src="https://github.com/user-attachments/assets/f4346418-1280-4a87-870e-0ab08874f4eb" />
   <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="ArgoCD" width="50" height="50"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
