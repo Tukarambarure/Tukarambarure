@@ -12,6 +12,7 @@ Tools & technologies i have worked with :
 
 I am Currently working on :
 
+- Exploring multi-cloud environments
 - Learning Kubernetes
 - Learning AIOps and MLOps Workflow
 - Implementing Cloud and DevOps Best Pratices including FinOps and SecOps
