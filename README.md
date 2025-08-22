@@ -4,7 +4,7 @@ Over the past two years as a Cloud DevOps Engineer, I've been deeply involved in
 
 Tools & technologies i have worked with :
 
-- Cloud Platforms  - AWS, Dassault Systèmes Outscale Cloud, Azure, GCP 
+- Cloud Platforms  - AWS, Dassault Systèmes Outscale, Azure, GCP 
 - Automation tools - Terraform(IaC), Shell scripting, Hashicorp Packer, Cloud Init           
 - CI/CD Pipelines  -  CI tools like Jenkins, Github actions, bitbucket pipelines, Microservices, ArgoCD (GitOps)
 - Container Technologies - Docker, Kubernetes (Orchestration)
