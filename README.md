@@ -6,7 +6,7 @@ Tools & technologies i have worked with :
 
 - Cloud Platforms  - AWS, Dassault Systèmes Outscale, Azure
 - Automation tools - Terraform(IaC), Shell scripting, Hashicorp Packer, Cloud Init           
-- CI/CD Pipelines  -  CI tools like Jenkins, Github actions, bitbucket pipelines, Microservices, ArgoCD (GitOps)
+- CI/CD Pipelines  - Jenkins, Github actions, bitbucket pipelines, Microservices, ArgoCD (GitOps)
 - Container Technologies - Docker, Kubernetes (Orchestration)
 - Monitoring tools - Prometheus, Grafana, Spring Boot Admin
 
